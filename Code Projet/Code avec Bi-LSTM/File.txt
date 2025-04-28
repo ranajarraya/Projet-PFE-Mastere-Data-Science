@@ -1,0 +1,4 @@
+Le classificateur Bi-LSTM comprend deux couches de mémoire à long terme (LSTM), 
+la couche LSTM avant et la couche LSTM arrière combinent de longues périodes d’informations contextuelles des deux directions, 
+avant et arrière, d’une certaine période. La structure du Bi-LSTM capture le plus grand nombre de caractéristiques saillantes des deux directions. 
+La couche avant apprend la séquence des entrées.
