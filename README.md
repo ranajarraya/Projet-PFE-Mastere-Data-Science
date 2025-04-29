@@ -14,4 +14,7 @@ Pour résumer, l'approche suggérée cherche à intégrer les avantages de l'ana
                                                                                                                                           
 **Technologies : Python (langage de programmation) · PyTorch · TensorFlow · Intelligence artificielle (IA) · Visualisation de données · Big data · Natural Language Toolkit (NLTK) · Deep learning · Exploration de données sur les réseaux sociaux**
 
+![report](MémoireMastéreDS.jpg)
+
+
 
